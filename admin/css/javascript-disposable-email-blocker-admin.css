@@ -1,0 +1,49 @@
+.float-left {
+    float: left;
+    padding: 0px 20px 0px 0px;
+}
+
+.white-background {
+    background-color: #fff;
+}
+
+.padding-5-30 {
+    padding: 5px 30px;
+}
+
+.padding-15-30-25 {
+    padding: 15px 30px 25px 30px;
+}
+
+.image-style {
+    float: right;
+    margin: 1em 0;
+    height: 88px;
+}
+
+.font-14 {
+    font-size: 14px;
+}
+
+.list-style {
+    list-style-type: disc;
+    padding-left: 10px;
+    font-size: 14px;
+}
+
+.font-1-5em {
+    font-size: 1.5em;
+}
+
+.flex-center {
+    display: flex;
+    align-items: center;
+}
+
+.input-height {
+    height: 28px;
+}
+
+.margin-left-5 {
+    margin-left: 5px;
+}
